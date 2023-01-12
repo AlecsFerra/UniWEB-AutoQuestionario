@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        UniWEB-AutoQuestionario
-// @namespace   Violentmonkey Scripts
+// @namespace   https://github.com/AlecsFerra/UniWEB-AutoQuestionario
 // @match       https://uniweb.unipd.it/questionari/*
 // @version     1.0
 // @author      Alecs
